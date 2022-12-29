@@ -276,7 +276,7 @@ namespace test1
             
 
         }
-        public void soalpanjom()//سوال پنجم مکتب شریف
+        public void soalpanjom()//سوال پنجم مکتب شریف1
         {
             Console.WriteLine("Enter  your Number= ");
             string num = Console.ReadLine();
@@ -293,7 +293,7 @@ namespace test1
             else Console.WriteLine("No");
 
         }
-        public void soalsheshom()//سوال ششم مکتب شریف
+        public void soalsheshom()//1سوال ششم مکتب شریف
         {
             int num = Int32.Parse(Console.ReadLine());
             int ll = num;
